@@ -45,9 +45,7 @@ An AI-driven approach focused on predictive energy routing for EV logistics flee
 
 <td width="50%" valign="top">
 
-### POND-SHIELD
-
-**Smart Pond Monitoring & Pollution Detection**
+### [POND-SHIELD](https://github.com/Aadhith567/POND-SHIELD)
 
 A technology concept focused on pond monitoring and pollution detection using connected systems.
 
