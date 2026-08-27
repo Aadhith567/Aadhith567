@@ -133,7 +133,8 @@ A smart monitoring concept focused on detecting and addressing pond pollution.
 
 <td width="50%" valign="top">
 
-### 03 — AI-Powered Chatbot
+### [03 — AI-Powered Chatbot](https://github.com/Aadhith567/AI-POWERED-OFFLINE-CHATBOT)
+
 
 An AI-powered chatbot project designed to provide intelligent conversational interaction.
 
