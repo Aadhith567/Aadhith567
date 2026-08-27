@@ -115,7 +115,7 @@ A project focused on predictive energy routing and efficient energy usage for EV
 
 <td width="50%" valign="top">
 
-### 02 — POND-SHIELD
+### [02 — POND-SHIELD](https://github.com/Aadhith567/POND-SHIELD)
 
 **Smart Pond Monitoring & Pollution Detection**
 
