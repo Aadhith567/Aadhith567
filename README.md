@@ -162,7 +162,7 @@ A system designed to streamline and manage overall processes for academic instit
 
 <td width="50%" valign="top">
 
-### 05 — Sign Recognition
+### [05 — Sign Recognition](https://github.com/Aadhith567/sign-language-recognition)
 
 A recognition system focused on interpreting sign-based communication using intelligent recognition techniques.
 
