@@ -148,7 +148,7 @@ An AI-powered chatbot project designed to provide intelligent conversational int
 
 ### 04 — College Examination Management System
 
-A system designed to streamline and manage examination-related processes for academic institutions.
+A system designed to streamline and manage overall processes for academic institutions.
 
 **Focus**
 
